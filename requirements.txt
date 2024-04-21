@@ -1,0 +1,5 @@
+flask
+gunicorn   #cloud
+requests 
+
+#you can all add version for more clararnace
